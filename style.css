@@ -1,0 +1,17 @@
+.food_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.food_img_container {
+    width: 50%;
+    height: 200px;
+}
+
+.food_img_container img {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+
+}
